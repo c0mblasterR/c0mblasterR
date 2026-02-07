@@ -21,11 +21,6 @@ I am an enthusiast focused on the intersection of hardware and software, explori
 
 ---
 
-### 📊 System Stats
-[![Comblaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0mblasterR&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/c0mblasterR)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0mblasterR&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/c0mblasterR)
----
-
 ### 📬 Connect with the Journey
 - **YouTube:** [@c0mblaster-cs](https://youtube.com/@c0mblaster-cs) - *Beyond the code: Devlogs, Tutorials & More*
 - **Portfolio:** Check my repositories to see the evolution of my "Notebook with four dots."
