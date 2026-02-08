@@ -7,7 +7,7 @@ I am an enthusiast focused on the intersection of hardware and software, explori
 ---
 
 ### 🌙 What I'm Building
-- **Piton (Custom-Syntax-Python):** A hybrid embedded language project blending the efficiency of C with the logic of Python.
+- **Hazer:** A hybrid embedded language project blending the efficiency of C with the logic of Python.
 - **Logic Systems:** Crafting low-level architectures and experimenting with Raspberry Pi.
 - **The Journal:** Documenting my engineering journey from a 12-year-old dreamer to a system architect.
 
