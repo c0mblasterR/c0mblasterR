@@ -2,7 +2,7 @@
 
 > *"Learning is my happiness."*
 
-I am an enthusiast focused on the intersection of hardware and software, focused on systems, language design and low-level logic.
+I am an enthusiast interested in the intersection of hardware and software, with a focus on systems, language design and low-level logic.
 
 ---
 
