@@ -2,14 +2,13 @@
 
 > *"One dot wasn't enough. Two dots weren't enough. Not three, but four dots..."*
 
-I am an enthusiast focused on the intersection of hardware and software, exploring the depths of system architecture and logic design. I don't just write code; I aim to understand how electrons become logic.
+I am an enthusiast focused on the intersection of hardware and software, exploring the depths of system architecture and logic design. 
 
 ---
 
 ### 🌙 What I'm Building
 - **Hazer:** A hybrid embedded language project blending the efficiency of C with the logic of Python.
 - **Logic Systems:** Crafting low-level architectures and experimenting with Raspberry Pi.
-- **The Journal:** Documenting my engineering journey from a 12-year-old dreamer to a system architect.
 
 ---
 
