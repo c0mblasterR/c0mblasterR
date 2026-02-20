@@ -22,6 +22,6 @@ I am an enthusiast focused on the intersection of hardware and software, explori
 
 ### 📬 Connect with the Journey
 - **YouTube:** [@c0mblaster-cs](https://youtube.com/@c0mblaster-cs) - *Beyond the code: Devlogs, Tutorials & More*
-- **Portfolio:** Check my repositories to see the evolution of my "Notebook with four dots."
+- **Portfolio:** Follow the repositories to see the evolution of my work.
 
 ....
