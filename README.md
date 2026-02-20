@@ -1,8 +1,8 @@
 # Hi there, I'm Comblaster ... 🛠️
 
-> *"One dot wasn't enough. Two dots weren't enough. Not three, but four dots..."*
+> *"Learning is my happiness."*
 
-I am an enthusiast focused on the intersection of hardware and software, exploring the depths of system architecture and logic design. 
+I am an enthusiast focused on the intersection of hardware and software, focused on systems, language design and low-level logic.
 
 ---
 
